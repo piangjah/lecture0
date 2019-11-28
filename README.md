@@ -1,11 +1,11 @@
 # Project 0
 
-Web Programming with Python and JavaScript
-It has 4 pages. 
+Web Programming with Python and JavaScript.
+It have 4 pages for this project. 
 1. Home screen is index.html
-2. If you click link "Click Here." botton of thid page it will be go to the new page and then that page have "home" button to back to the home screen.
-3. 3 more pages left will be show the detail trail for hiking.
+2. If you click link "Click Here." botton of home page. It will be direct to new page and will be show the detail on that pages then those pages have "home" button to go back to home screen.
+Incoulding 
   - rts.html
   - mbp.html
   - mts.html
-4. styles.css 
+3. styles.css 
