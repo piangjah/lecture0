@@ -1,0 +1,108 @@
+
+
+body {
+    font-size: 15px;
+    line-height: 26px;
+    background-color: #ffffff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+body,
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
+    line-height: 1.4;
+    color: #111111;
+}
+
+h1:hover a,
+h2:hover a,
+h3:hover a,
+h4:hover a,
+h5:hover a,
+h6:hover a {
+    text-decoration: underline !important;
+    color: #111111 !important;
+}
+
+h1 {
+    font-size: 32px;
+    font-style: oblique;
+    line-height: 40px;
+    margin-bottom: 23px
+}
+
+h2 {
+    font-size: 27px;
+    line-height: 38px;
+    margin-bottom: 20px
+}
+
+h3 {
+    font-size: 22px;
+    line-height: 30px;
+    margin-bottom: 17px
+}
+
+h4 {
+    font-size: 19px;
+    line-height: 29px;
+    margin-bottom: 14px
+}
+
+h5 {
+    font-size: 17px;
+    line-height: 25px;
+    margin-bottom: 11px
+}
+
+h6 {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 11px
+}
+
+a {
+    color: #111111;
+}
+
+body,
+p {
+    color: #5e5e5e;
+}
+
+p {
+    margin-bottom: 26px;
+    font-size: 15px;
+    line-height: 26px;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+    text-transform: capitalize;
+    font-size: 14px;
+    padding: 4px 1.8rem;
+}
+
+.classtable {
+     height: 100px;
+     width: 300px;
+     background-color: powderblue;
+     }
+.someclassname { 
+    height: 100px; 
+    width: 1000px;
+}
+
